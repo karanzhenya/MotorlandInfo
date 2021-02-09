@@ -8,9 +8,9 @@ function Button(props) {
     function callName(id) {
         let selectedCar = props.state.find(k => k.id === id)
         console.log(selectedCar)
-        let typeSelectedCar = selectedCar.models.map(t => t.type)
+        let typeSelectedCar = selectedCar.models.map(t => ({type: t.type,info: t.info}))
         console.log(typeSelectedCar)
-        setData(typeSelectedCar.map(type => <button className={"data"} onClick={() => {alert(type)}}>{type}</button>))
+        setData(typeSelectedCar.map(type => <button className={"data"} onClick={() => {alert(type.info)}}>{type.type}</button>))
     }
 
     return (
