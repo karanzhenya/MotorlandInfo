@@ -12,7 +12,7 @@ let state = [
             {id: v1(), type: "TL 2008-2014", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "TSX 2003-2008", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "TSX 2008-...", info: "Передний - спереди, задний - сзади"}]
-    },
+    }, //готов
     {
         id: v1(),
         name: "Alfa Romeo",
@@ -112,7 +112,7 @@ let state = [
         id: v1(),
         name: "Buick",
         models: [{id: v1(), type: "Encore", info: "Передний - спереди, задний - сзади"}]
-    },
+    },  //готов
     {
         id: v1(),
         name: "Cadillac",
@@ -132,7 +132,7 @@ let state = [
         name: "Chery",
         models: [{id: v1(), type: "M11 (A3)", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Tiggo (T11)", info: "Передний - спереди, задний - сзади"}]
-    },
+    }, //готов
     {
         id: v1(),
         name: "Chevrolet",
@@ -431,7 +431,7 @@ let state = [
     {
         id: v1(),
         name: "GMC",
-        models: [{id: v1(), type: "Envoy 2001-2009", info: ""},
+        models: [{id: v1(), type: "Envoy 2001-2009", info: "Передний - спереди, задний - спереди"},
             {id: v1(), type: "Safari 1995-2005", info: ""}]
     },
     {
@@ -505,9 +505,9 @@ let state = [
     {
         id: v1(),
         name: "Hummer",
-        models: [{id: v1(), type: "H2", info: ""},
-            {id: v1(), type: "", info: ""}]
-    },
+        models: [{id: v1(), type: "H2", info: "Передний - сзади, задний - спереди"},
+            {id: v1(), type: "H3", info: "Передний - сзади, задний - спереди"}]
+    }, // готов
     {
         id: v1(),
         name: "Hyundai",
