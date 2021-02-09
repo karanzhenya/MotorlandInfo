@@ -1,6 +1,22 @@
 .app-wrapper {
     display: grid;
+    width: 100%;
     grid-gap: 20px;
     grid-template-columns: repeat(8, 100%);
-    border: 3px red solid;
+}
+.nameAvto {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 5px;
+}
+.data {
+    display: grid;
+    padding: 5px;
+    border: 1px blue solid;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.types {
+    margin-top: 20px;
+    position: absolute;
 }

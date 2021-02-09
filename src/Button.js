@@ -3,21 +3,24 @@ import {useState} from "react";
 import state from "./state";
 
 function Button(props) {
- let [state, setState] = useState(props.state)
     let [data, setData] = useState("")
-    function callName (id) {
-        let a = state.find(k => k.id === id)
-        console.log(a)
-        let b = a.models.map(ab => ab.type)
-        setData(b.map(d => <button>{d}</button>))
+
+    function callName(id) {
+        let selectedCar = props.state.find(k => k.id === id)
+        console.log(selectedCar)
+        let typeSelectedCar = selectedCar.models.map(t => t.type)
+        console.log(typeSelectedCar)
+        setData(typeSelectedCar.map(type => <button className={"data"} onClick={() => {alert(type)}}>{type}</button>))
     }
 
     return (
         <div>
-        <div className={"nameAvto"}>
-            {state.map(n => <button onClick={() => {callName(n.id)}}>{n.name}</button>)}
-        </div>
-            <div>{data}</div>
+            <div className={"nameAvto"}>
+                {state.map(n => <button onClick={() => {
+                    callName(n.id)
+                }}>{n.name}</button>)}
+            </div>
+            <div className={"types"}>{data}</div>
         </div>
     );
 }

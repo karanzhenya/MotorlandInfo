@@ -1,15 +1,14 @@
 import './App.css';
 import state from './state'
 import Button from "./Button";
-import {useState} from "react";
 
 
 export default function App(props) {
 
-    let names = state.map(t => t.name)
+    /*let names = state.map(t => t.name)
     console.log(names)
     let model = state.map(m => m.models)
-    console.log(model)
+    console.log(model)*/
     /*function callName (id) {
         let a = state.find(k => k.id === id)
         console.log(a)
@@ -20,8 +19,6 @@ export default function App(props) {
     return (
         <div className={"app-wrapper"}>
             <Button state={state}/>
-
-
             {/*{state.map(s => <Button id={s.id} data={data}/>)}*/}
             {/* {visible ? state.map(s => <Button id={s.id} name={s.name} changeVisible={changeVisible}/>) :
                 <div>
