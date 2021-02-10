@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="984a1139-986f-4c31-8cbf-25e61acb2b57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/state.js" afterDir="false" />
     </list>
@@ -83,7 +82,8 @@
       <workItem from="1612805087899" duration="3759000" />
       <workItem from="1612810817638" duration="6240000" />
       <workItem from="1612817984631" duration="415000" />
-      <workItem from="1612884052168" duration="7209000" />
+      <workItem from="1612884052168" duration="7267000" />
+      <workItem from="1612985881858" duration="2381000" />
     </task>
     <servers />
   </component>
@@ -136,7 +136,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/state.js</url>
           <line>430</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
