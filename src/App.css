@@ -1,12 +1,13 @@
 .app-wrapper {
+    position: page;
     display: grid;
     width: 100%;
     grid-gap: 20px;
-    grid-template-columns: repeat(8, 100%);
+
 }
 .nameAvto {
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    grid-template-columns: repeat(20, 1fr);
     gap: 5px;
 }
 .data {

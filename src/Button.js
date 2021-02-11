@@ -16,7 +16,7 @@ function Button(props) {
     return (
         <div>
             <div className={"nameAvto"}>
-                {state.map(n => <button onClick={() => {
+                {state.map(n => <button className={"name"} onClick={() => {
                     callName(n.id)
                 }}>{n.name}</button>)}
             </div>
