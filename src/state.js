@@ -446,8 +446,8 @@ let state = [
     {
         id: v1(),
         name: "Haval",
-        models: [{id: v1(), type: "H6 Coupe", info: ""}]
-    },
+        models: [{id: v1(), type: "H6 Coupe", info: "Передний - сзади, задний - сзади"}]
+    }, //готов
     {
         id: v1(),
         name: "Honda",
@@ -565,17 +565,17 @@ let state = [
     {
         id: v1(),
         name: "Infiniti",
-        models: [{id: v1(), type: "EX35", info: ""},
-            {id: v1(), type: "FX 2003-2008", info: ""},
-            {id: v1(), type: "FX 2008-2012", info: ""},
-            {id: v1(), type: "G 2002-2007", info: ""},
-            {id: v1(), type: "G 2006-2013", info: ""},
-            {id: v1(), type: "JX", info: ""},
-            {id: v1(), type: "M (Y50) 2005-2008", info: ""},
-            {id: v1(), type: "Q50 2013-2017", info: ""},
-            {id: v1(), type: "QX4 (JR50) 1996-2002", info: ""},
-            {id: v1(), type: "QX56 (JA60) 2004-2010", info: ""}]
-    },
+        models: [{id: v1(), type: "EX35", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "FX 2003-2008", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "FX 2008-2012", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "G 2002-2007", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "G 2006-2013", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "JX", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "M (Y50) 2005-2008", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "Q50 2013-2017", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "QX4 (JR50) 1996-2002", info: "Передний - сзади, задний - барабан"},
+            {id: v1(), type: "QX56 (JA60) 2004-2010", info: "Передний - сзади, задний - спереди"}]
+    }, //готов
     {
         id: v1(),
         name: "Isuzu",
@@ -899,7 +899,7 @@ let state = [
             {id: v1(), type: "Note E11 2006-2013", info: ""},
             {id: v1(), type: "Note E12 2012-", info: ""},
             {id: v1(), type: "NV200", info: ""},
-            {id: v1(), type: "Pathfinder 1996-2005", info: ""},
+            {id: v1(), type: "Pathfinder 1996-2005", info: "Передний - сзади, задний - барабан"},
             {id: v1(), type: "Pathfinder 2004-2014", info: ""},
             {id: v1(), type: "Pathfinder 2012-2017", info: ""},
             {id: v1(), type: "Patrol 1989-1998", info: ""},
