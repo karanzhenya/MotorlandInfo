@@ -1032,11 +1032,11 @@ let state = [
     {
         id: v1(),
         name: "Pontiac",
-        models: [{id: v1(), type: "Grand Am 1998-2005", info: ""},
-            {id: v1(), type: "Trans Sport 1989-1996", info: ""},
-            {id: v1(), type: "Vibe 1 2002-2008", info: ""},
-            {id: v1(), type: "Vibe 2 2008-2010", info: ""}]
-    },
+        models: [{id: v1(), type: "Grand Am 1998-2005", info: "Передний - спереди, задний - спереди/барабан"},
+            {id: v1(), type: "Trans Sport 1989-1996", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Vibe 1 2002-2008", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Vibe 2 2008-2010", info: "Передний - спереди, задний - сзади"}]
+    }, //готов
     {
         id: v1(),
         name: "Porsche",
@@ -1128,8 +1128,8 @@ let state = [
     {
         id: v1(),
         name: "Scion",
-        models: [{id: v1(), type: "tC 2004-2010", info: ""},
-            {id: v1(), type: "Xd 2007-", info: ""}]
+        models: [{id: v1(), type: "tC 2004-2010", info: "Передний - спереди, задний - спереди"},
+            {id: v1(), type: "Xd 2007-", info: "Передний - спереди, задний - барабан"}]
     },
     {
         id: v1(),
