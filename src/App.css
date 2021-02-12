@@ -5,6 +5,7 @@
     grid-gap: 20px;
 
 }
+
 .nameAvto {
     display: grid;
     grid-template-columns: repeat(20, 1fr);
