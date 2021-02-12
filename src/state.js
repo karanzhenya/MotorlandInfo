@@ -193,7 +193,7 @@ let state = [
             {id: v1(), type: "Town-Country 2001-2008", info: ""},
             {id: v1(), type: "Town-Country 2008-", info: ""},
             {id: v1(), type: "Voyager 1984-1995", info: ""},
-            {id: v1(), type: "Voyager 1996-2000", info: ""},
+            {id: v1(), type: "Voyager 1996-2000", info: "Передний - спереди, задний - лево-право/барабан"},
             {id: v1(), type: "Voyager 2001-2007", info: ""},
             {id: v1(), type: "Voyager 2007-2010", info: ""}]
     },
@@ -272,7 +272,7 @@ let state = [
         id: v1(),
         name: "Daihatsu",
         models: [{id: v1(), type: "Charade 1993-2000", info: ""},
-            {id: v1(), type: "Cuore 1995-1999", info: ""},
+            {id: v1(), type: "Cuore 1995-1999", info: "Передний - спереди, задний - барабан"},
             {id: v1(), type: "Cuore 2003-2007", info: ""},
             {id: v1(), type: "Gran Move", info: ""},
             {id: v1(), type: "Materia", info: ""},
@@ -579,8 +579,8 @@ let state = [
     {
         id: v1(),
         name: "Isuzu",
-        models: [{id: v1(), type: "Trooper", info: ""}]
-    },
+        models: [{id: v1(), type: "Trooper", info: "Передний - сзади, задний - сзади"}]
+    }, //готов
     {
         id: v1(),
         name: "Iveco",
@@ -815,10 +815,10 @@ let state = [
     {
         id: v1(),
         name: "Mini",
-        models: [{id: v1(), type: "Clubman 2007-2010", info: ""},
-            {id: v1(), type: "Cooper 2001-2010", info: ""},
-            {id: v1(), type: "Countryman 2010-2016", info: ""}]
-    },
+        models: [{id: v1(), type: "Clubman 2007-2010", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Cooper 2001-2010", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Countryman 2010-2016", info: "Передний - спереди, задний - сзади"}]
+    }, //готов
     {
         id: v1(),
         name: "Mitsubishi",
@@ -981,8 +981,8 @@ let state = [
     {
         id: v1(),
         name: "Perodua",
-        models: [{id: v1(), type: "Kelisa", info: ""}]
-    },
+        models: [{id: v1(), type: "Kelisa", info: "Передний - спереди, задний - барабан"}]
+    }, //готов
     {
         id: v1(),
         name: "Peugeot",
@@ -1027,8 +1027,8 @@ let state = [
     {
         id: v1(),
         name: "Plymouth",
-        models: [{id: v1(), type: "Voyager 1996-2000", info: ""}]
-    },
+        models: [{id: v1(), type: "Voyager 1996-2000", info: "Передний - спереди, задний - лево-право/барабан"}]
+    }, //готов
     {
         id: v1(),
         name: "Pontiac",
