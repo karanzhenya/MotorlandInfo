@@ -1185,17 +1185,17 @@ let state = [
     {
         id: v1(),
         name: "Ssang Yong",
-        models: [{id: v1(), type: "Actyon 2006-2010", info: ""},
-            {id: v1(), type: "Actyon 2010-2013", info: ""},
-            {id: v1(), type: "Actyon Sports 1 2006-2012", info: ""},
-            {id: v1(), type: "Actyon Sports 2 2012-", info: ""},
-            {id: v1(), type: "Korando 2010-", info: ""},
-            {id: v1(), type: "Kyron", info: ""},
-            {id: v1(), type: "Musso", info: ""},
-            {id: v1(), type: "Rexton 2001-2007", info: ""},
-            {id: v1(), type: "Rexton 2007-2012", info: ""},
-            {id: v1(), type: "Rodius 2004-2013", info: ""}]
-    },
+        models: [{id: v1(), type: "Actyon 2006-2010", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Actyon 2010-2013", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Actyon Sports 1 2006-2012", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Actyon Sports 2 2012-", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Korando 2010-", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Kyron", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Musso", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Rexton 2001-2007", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Rexton 2007-2012", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Rodius 2004-2013", info: "Передний - спереди, задний - сзади"}]
+    }, //готов
     {
         id: v1(),
         name: "Subaru",
