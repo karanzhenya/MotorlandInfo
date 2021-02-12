@@ -401,7 +401,7 @@ let state = [
             {id: v1(), type: "Maverick 1993-1998", info: ""},
             {id: v1(), type: "Maverick 2000-2007", info: ""},
             {id: v1(), type: "Mondeo 1 1993-1996", info: ""},
-            {id: v1(), type: "Mondeo 2 1996-2000", info: ""},
+            {id: v1(), type: "Mondeo 2 1996-2000", info: "Передний - спереди, задний - сзади(универсал), спереди(седан, хетчбэк)"},
             {id: v1(), type: "Mondeo 3 2000-2007", info: ""},
             {id: v1(), type: "Mondeo 4 2007-2015", info: ""},
             {id: v1(), type: "Mondeo 5 2015-", info: ""},
@@ -584,10 +584,10 @@ let state = [
     {
         id: v1(),
         name: "Iveco",
-        models: [{id: v1(), type: "Daily 2 1991-1999", info: ""},
-            {id: v1(), type: "Daily 3 2000-2005", info: ""},
-            {id: v1(), type: "Daily 4 2005-", info: ""}]
-    },
+        models: [{id: v1(), type: "Daily 2 1991-1999", info: "Передний - сзади, задний - барабан"},
+            {id: v1(), type: "Daily 3 2000-2005", info: "Передний - сзади, задний - спереди"},
+            {id: v1(), type: "Daily 4 2005-", info: "Передний - сзади, задний - спереди"}]
+    }, //готов
     {
         id: v1(),
         name: "Jaguar",
