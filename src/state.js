@@ -136,7 +136,7 @@ let state = [
     {
         id: v1(),
         name: "Chevrolet",
-        models: [{id: v1(), type: "Astro Van (GMC Safari)", info: ""},
+        models: [{id: v1(), type: "Astro Van (GMC Safari)", info: "Передний - сзади, задний - барабан"},
             {id: v1(), type: "Aveo (T200) 2005-2008", info: ""},
             {id: v1(), type: "Aveo (T250) 2008-2011", info: ""},
             {id: v1(), type: "Aveo (T300) 2011-", info: ""},
@@ -164,7 +164,7 @@ let state = [
             {id: v1(), type: "Spark 2009-", info: ""},
             {id: v1(), type: "Suburban 1991-2001", info: ""},
             {id: v1(), type: "Tacuma", info: ""},
-            {id: v1(), type: "Tahoe 1999-2006", info: ""},
+            {id: v1(), type: "Tahoe 1999-2006", info: "Передний - сзади, задний - "},
             {id: v1(), type: "Tahoe 2006-2014", info: ""},
             {id: v1(), type: "Trailblazer 2001-2010", info: ""},
             {id: v1(), type: "Trans Sport", info: ""},
@@ -432,8 +432,8 @@ let state = [
         id: v1(),
         name: "GMC",
         models: [{id: v1(), type: "Envoy 2001-2009", info: "Передний - спереди, задний - спереди"},
-            {id: v1(), type: "Safari 1995-2005", info: ""}]
-    },
+            {id: v1(), type: "Safari 1995-2005", info: "Передний - сзади, задний - барабан"}]
+    }, // готов
     {
         id: v1(),
         name: "Great Wall",
@@ -664,28 +664,28 @@ let state = [
     {
         id: v1(),
         name: "Land Rover",
-        models: [{id: v1(), type: "Defender", info: ""},
-            {id: v1(), type: "Discovery 1 1989-1998", info: ""},
-            {id: v1(), type: "Discovery 2 1998-2004", info: ""},
-            {id: v1(), type: "Discovery 3 2004-2009", info: ""},
-            {id: v1(), type: "Discovery 4 2009-2016", info: ""},
-            {id: v1(), type: "Discovery Sport 2014-", info: ""},
-            {id: v1(), type: "Freelander 1 1998-2007", info: ""},
-            {id: v1(), type: "Freelander 2 2007-2014", info: ""},
-            {id: v1(), type: "Range Rover 1 -1994", info: ""},
-            {id: v1(), type: "Range Rover 2 1994-2003", info: ""},
-            {id: v1(), type: "Range Rover 3 (LM) 2002-2012", info: ""},
-            {id: v1(), type: "Range Rover Evoque 2011-2015", info: ""},
-            {id: v1(), type: "Range Rover Sport 2005-2009", info: ""},
-            {id: v1(), type: "Range Rover Sport 2009-2013", info: ""},
-            {id: v1(), type: "Range Rover Sport 2013-", info: ""}]
-    },
+        models: [{id: v1(), type: "Defender", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Discovery 1 1989-1998", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Discovery 2 1998-2004", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Discovery 3 2004-2009", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Discovery 4 2009-2016", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Discovery Sport 2014-", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Freelander 1 1998-2007", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Freelander 2 2007-2014", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Range Rover 1 -1994", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Range Rover 2 1994-2003", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Range Rover 3 (LM) 2002-2012", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Range Rover Evoque 2011-2015", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Range Rover Sport 2005-2009", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Range Rover Sport 2009-2013", info: "Передний - сзади, задний - сзади"},
+            {id: v1(), type: "Range Rover Sport 2013-", info: "Передний - сзади, задний - сзади"}]
+    }, //готов(вопрос по дискавери 1 и рр 1)
     {
         id: v1(),
         name: "LDV (DAF)",
-        models: [{id: v1(), type: "Convoy", info: ""},
-            {id: v1(), type: "Maxus", info: ""}]
-    },
+        models: [{id: v1(), type: "Convoy", info: "Передний - сзади, задний - барабан"},
+            {id: v1(), type: "Maxus", info: "Передний - спереди, задний - барабан"}]
+    }, //готов(вопрос по maxus)
     {
         id: v1(),
         name: "Lexus",
