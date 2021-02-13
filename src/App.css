@@ -1,9 +1,9 @@
 .app-wrapper {
-    position: page;
+    width: 100%;
+    max-width: 100%;
     display: grid;
     width: 100%;
     grid-gap: 20px;
-
 }
 
 .nameAvto {
@@ -14,9 +14,17 @@
 .data {
     display: grid;
     padding: 5px;
-    border: 1px blue solid;
+    border-radius: 10%;
     margin-top: 5px;
-    margin-left: 10px;
+    margin-left: 3px;
+    align-items: center;
+    transition-duration: 0.7s;
+}
+.data:hover {
+    color: white;
+    background: black;
+    width: 101%;
+    height: 101%;
 }
 .types {
     margin-top: 20px;
