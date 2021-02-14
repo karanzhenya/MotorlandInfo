@@ -1162,7 +1162,7 @@ let state = [
     {
         id: v1(),
         name: "Skoda",
-        models: [{id: v1(), type: "Fabia 2000-2007", info: ""},
+        models: [{id: v1(), type: "Fabia 2000-2007", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Fabia 2007-2014", info: ""},
             {id: v1(), type: "Fabia 2014-2018", info: ""},
             {id: v1(), type: "Felicia", info: ""},
