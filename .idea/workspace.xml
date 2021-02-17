@@ -124,7 +124,9 @@
       <workItem from="1613414618245" duration="6689000" />
       <workItem from="1613422641702" duration="175000" />
       <workItem from="1613505077866" duration="5201000" />
-      <workItem from="1613554131656" duration="4181000" />
+      <workItem from="1613554131656" duration="4680000" />
+      <workItem from="1613581618337" duration="35000" />
+      <workItem from="1613599899565" duration="2101000" />
     </task>
     <servers />
   </component>
@@ -136,16 +138,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/state.js</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/state.js</url>
-          <line>174</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/state.js</url>
           <line>663</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -153,11 +145,6 @@
           <url>file://$PROJECT_DIR$/src/state.js</url>
           <line>1044</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/state.js</url>
-          <line>445</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/state.js</url>
@@ -186,13 +173,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/state.js</url>
-          <line>115</line>
-          <option name="timeStamp" value="16" />
+          <line>1256</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/state.js</url>
-          <line>1256</line>
-          <option name="timeStamp" value="17" />
+          <line>985</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
