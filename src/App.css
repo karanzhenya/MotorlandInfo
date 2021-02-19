@@ -1,10 +1,9 @@
-.app-wrapper {
+/*.app-wrapper {
     width: 100%;
     max-width: 100%;
     display: grid;
-    width: 100%;
     grid-gap: 20px;
-}
+}*/
 
 .nameAvto {
     display: grid;
@@ -29,4 +28,7 @@
 .types {
     margin-top: 20px;
     position: absolute;
+}
+.password {
+    width: 200px;
 }

@@ -1,6 +1,8 @@
 import './App.css';
 import state from './state'
 import Button from "./Button";
+import {useState} from "react";
+import {Grid} from "@material-ui/core";
 
 
 export default function App(props) {
@@ -15,10 +17,17 @@ export default function App(props) {
         let b = a.models.map(ab => console.log(ab.type))
     }*/
 
-
+    let [password, setPassword] = useState("");
+    const changePassword = (e) => {
+        setPassword(e.currentTarget.value)
+    }
     return (
         <div className={"app-wrapper"}>
-            <Button state={state}/>
+            <Grid container fixed>
+                <input onChange={changePassword} className={'password'} value={password} type={"password"}/>
+            </Grid>
+
+            {password == "1111" ?<Grid item> <Button state={state}/> </Grid>: ""}
             {/*{state.map(s => <Button id={s.id} data={data}/>)}*/}
             {/* {visible ? state.map(s => <Button id={s.id} name={s.name} changeVisible={changeVisible}/>) :
                 <div>
