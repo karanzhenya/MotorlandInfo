@@ -1,6 +1,6 @@
 import './App.css';
 import state from './state'
-import Button from "./Button";
+import {Button} from "./Button";
 import {useState} from "react";
 import {Grid} from "@material-ui/core";
 
