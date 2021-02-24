@@ -1,15 +1,10 @@
-/*.app-wrapper {
-    width: 100%;
-    max-width: 100%;
-    display: grid;
-    grid-gap: 20px;
-}*/
-
 .nameAvto {
     display: grid;
+    margin: 20px 0px;
     grid-template-columns: repeat(20, 1fr);
     gap: 5px;
 }
+
 .data {
     display: grid;
     padding: 5px;
@@ -19,16 +14,19 @@
     align-items: center;
     transition-duration: 0.7s;
 }
+
 .data:hover {
     color: white;
     background: black;
     width: 101%;
     height: 101%;
 }
+
 .types {
     margin-top: 20px;
     position: absolute;
 }
+
 .password {
     width: 200px;
 }
