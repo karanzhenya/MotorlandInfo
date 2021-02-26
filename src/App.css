@@ -31,3 +31,19 @@
 .password {
     width: 200px;
 }
+
+@media screen and (max-width: 480px) {
+    .nameAvto {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2px;
+        margin: 10px 0;
+    }
+    .data {
+        width: 100%;
+    }
+    .types {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
