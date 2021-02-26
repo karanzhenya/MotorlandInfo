@@ -45,7 +45,7 @@
     .types {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        width: 200px;
-        margin-left: 10px;
+        width: 310px;
+        gap: 1px;
     }
 }
