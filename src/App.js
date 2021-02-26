@@ -23,7 +23,7 @@ export default function App(props) {
     }
     return (
         <div className={"app-wrapper"}>
-            <Grid container fixed>
+            <Grid container>
                 <input onChange={changePassword} className={'password'} value={password} type={"password"}/>
             </Grid>
             {password == "1111" ? <Grid item> <Button state={state}/> </Grid> : ""}
