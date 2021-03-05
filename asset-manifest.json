@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MotorlandInfo/static/css/main.fd0e02c3.chunk.css",
-    "main.js": "/MotorlandInfo/static/js/main.c6f01290.chunk.js",
-    "main.js.map": "/MotorlandInfo/static/js/main.c6f01290.chunk.js.map",
-    "runtime-main.js": "/MotorlandInfo/static/js/runtime-main.b97f6963.js",
-    "runtime-main.js.map": "/MotorlandInfo/static/js/runtime-main.b97f6963.js.map",
-    "static/js/2.e54959d7.chunk.js": "/MotorlandInfo/static/js/2.e54959d7.chunk.js",
-    "static/js/2.e54959d7.chunk.js.map": "/MotorlandInfo/static/js/2.e54959d7.chunk.js.map",
-    "static/js/3.21604466.chunk.js": "/MotorlandInfo/static/js/3.21604466.chunk.js",
-    "static/js/3.21604466.chunk.js.map": "/MotorlandInfo/static/js/3.21604466.chunk.js.map",
+    "main.css": "/MotorlandInfo/static/css/main.f84772e0.chunk.css",
+    "main.js": "/MotorlandInfo/static/js/main.d2c1b7bb.chunk.js",
+    "main.js.map": "/MotorlandInfo/static/js/main.d2c1b7bb.chunk.js.map",
+    "runtime-main.js": "/MotorlandInfo/static/js/runtime-main.73c62d67.js",
+    "runtime-main.js.map": "/MotorlandInfo/static/js/runtime-main.73c62d67.js.map",
+    "static/js/2.3e3490b3.chunk.js": "/MotorlandInfo/static/js/2.3e3490b3.chunk.js",
+    "static/js/2.3e3490b3.chunk.js.map": "/MotorlandInfo/static/js/2.3e3490b3.chunk.js.map",
+    "static/js/3.9fc59715.chunk.js": "/MotorlandInfo/static/js/3.9fc59715.chunk.js",
+    "static/js/3.9fc59715.chunk.js.map": "/MotorlandInfo/static/js/3.9fc59715.chunk.js.map",
     "index.html": "/MotorlandInfo/index.html",
-    "static/css/main.fd0e02c3.chunk.css.map": "/MotorlandInfo/static/css/main.fd0e02c3.chunk.css.map",
-    "static/js/2.e54959d7.chunk.js.LICENSE.txt": "/MotorlandInfo/static/js/2.e54959d7.chunk.js.LICENSE.txt"
+    "static/css/main.f84772e0.chunk.css.map": "/MotorlandInfo/static/css/main.f84772e0.chunk.css.map",
+    "static/js/2.3e3490b3.chunk.js.LICENSE.txt": "/MotorlandInfo/static/js/2.3e3490b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b97f6963.js",
-    "static/js/2.e54959d7.chunk.js",
-    "static/css/main.fd0e02c3.chunk.css",
-    "static/js/main.c6f01290.chunk.js"
+    "static/js/runtime-main.73c62d67.js",
+    "static/js/2.3e3490b3.chunk.js",
+    "static/css/main.f84772e0.chunk.css",
+    "static/js/main.d2c1b7bb.chunk.js"
   ]
 }
