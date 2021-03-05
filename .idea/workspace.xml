@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="984a1139-986f-4c31-8cbf-25e61acb2b57" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/state.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todolist2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -139,7 +140,10 @@
       <workItem from="1614099056104" duration="398000" />
       <workItem from="1614141246328" duration="320000" />
       <workItem from="1614360268875" duration="5396000" />
-      <workItem from="1614371543987" duration="1840000" />
+      <workItem from="1614371543987" duration="2536000" />
+      <workItem from="1614473291183" duration="640000" />
+      <workItem from="1614886211913" duration="479000" />
+      <workItem from="1614974183336" duration="2127000" />
     </task>
     <servers />
   </component>
@@ -193,6 +197,12 @@
           <url>file://$PROJECT_DIR$/src/state.js</url>
           <line>935</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/state.js</url>
+          <line>445</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
