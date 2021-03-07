@@ -17,16 +17,17 @@ export default function App(props) {
         let b = a.models.map(ab => console.log(ab.type))
     }*/
 
-    let [password, setPassword] = useState("");
+    /*let [password, setPassword] = useState("");
     const changePassword = (e) => {
         setPassword(e.currentTarget.value)
-    }
+    }*/
     return (
         <div className={"app-wrapper"}>
-            <Grid container>
+            {/*<Grid container>
                 <input onChange={changePassword} className={'password'} value={password} type={"password"}/>
             </Grid>
-            {password == "1111" ? <Grid item> <Button state={state}/> </Grid> : ""}
+            {password == "1111" ? <Grid item> <Button state={state}/> </Grid> : ""}*/}
+            <Grid item> <Button state={state}/> </Grid>
         </div>
     )
 }
