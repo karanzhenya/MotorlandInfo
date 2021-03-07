@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/MotorlandInfo/static/css/main.f84772e0.chunk.css",
-    "main.js": "/MotorlandInfo/static/js/main.c5cb7994.chunk.js",
-    "main.js.map": "/MotorlandInfo/static/js/main.c5cb7994.chunk.js.map",
+    "main.js": "/MotorlandInfo/static/js/main.be89bd93.chunk.js",
+    "main.js.map": "/MotorlandInfo/static/js/main.be89bd93.chunk.js.map",
     "runtime-main.js": "/MotorlandInfo/static/js/runtime-main.73c62d67.js",
     "runtime-main.js.map": "/MotorlandInfo/static/js/runtime-main.73c62d67.js.map",
-    "static/js/2.3e3490b3.chunk.js": "/MotorlandInfo/static/js/2.3e3490b3.chunk.js",
-    "static/js/2.3e3490b3.chunk.js.map": "/MotorlandInfo/static/js/2.3e3490b3.chunk.js.map",
+    "static/js/2.30413ecc.chunk.js": "/MotorlandInfo/static/js/2.30413ecc.chunk.js",
+    "static/js/2.30413ecc.chunk.js.map": "/MotorlandInfo/static/js/2.30413ecc.chunk.js.map",
     "static/js/3.9fc59715.chunk.js": "/MotorlandInfo/static/js/3.9fc59715.chunk.js",
     "static/js/3.9fc59715.chunk.js.map": "/MotorlandInfo/static/js/3.9fc59715.chunk.js.map",
     "index.html": "/MotorlandInfo/index.html",
     "static/css/main.f84772e0.chunk.css.map": "/MotorlandInfo/static/css/main.f84772e0.chunk.css.map",
-    "static/js/2.3e3490b3.chunk.js.LICENSE.txt": "/MotorlandInfo/static/js/2.3e3490b3.chunk.js.LICENSE.txt"
+    "static/js/2.30413ecc.chunk.js.LICENSE.txt": "/MotorlandInfo/static/js/2.30413ecc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.73c62d67.js",
-    "static/js/2.3e3490b3.chunk.js",
+    "static/js/2.30413ecc.chunk.js",
     "static/css/main.f84772e0.chunk.css",
-    "static/js/main.c5cb7994.chunk.js"
+    "static/js/main.be89bd93.chunk.js"
   ]
 }
