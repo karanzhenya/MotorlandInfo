@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MotorlandInfo/static/css/main.f84772e0.chunk.css",
-    "main.js": "/MotorlandInfo/static/js/main.730be08c.chunk.js",
-    "main.js.map": "/MotorlandInfo/static/js/main.730be08c.chunk.js.map",
+    "main.js": "/MotorlandInfo/static/js/main.c0e79b6c.chunk.js",
+    "main.js.map": "/MotorlandInfo/static/js/main.c0e79b6c.chunk.js.map",
     "runtime-main.js": "/MotorlandInfo/static/js/runtime-main.73c62d67.js",
     "runtime-main.js.map": "/MotorlandInfo/static/js/runtime-main.73c62d67.js.map",
     "static/js/2.30413ecc.chunk.js": "/MotorlandInfo/static/js/2.30413ecc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.73c62d67.js",
     "static/js/2.30413ecc.chunk.js",
     "static/css/main.f84772e0.chunk.css",
-    "static/js/main.730be08c.chunk.js"
+    "static/js/main.c0e79b6c.chunk.js"
   ]
 }
