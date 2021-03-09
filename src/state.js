@@ -172,7 +172,7 @@ let state = [
             {id: v1(), type: "Trax 2013-2016", info: ""},
             {id: v1(), type: "Trax 2016-", info: ""},
             {id: v1(), type: "Volt 2010-2015", info: ""}]
-    },
+    },               //еще 31
     {
         id: v1(),
         name: "Chrysler",
@@ -197,7 +197,7 @@ let state = [
             {id: v1(), type: "Voyager 1996-2000", info: "Передний - спереди, задний - лево-право/барабан"},
             {id: v1(), type: "Voyager 2001-2007", info: "Передний - спереди, задний - "},
             {id: v1(), type: "Voyager 2007-2010", info: ""}]
-    },
+    },                //еще 17
     {
         id: v1(),
         name: "Citroen",
@@ -242,7 +242,7 @@ let state = [
             {id: v1(), type: "Xsara 2000-2005", info: ""},
             {id: v1(), type: "Xsara-Picasso", info: ""},
             {id: v1(), type: "ZX", info: ""}]
-    },
+    },                  //еще 39
     {
         id: v1(),
         name: "Dacia",
@@ -255,20 +255,20 @@ let state = [
     {
         id: v1(),
         name: "Daewoo",
-        models: [{id: v1(), type: "Espero", info: ""},
-            {id: v1(), type: "Kalos", info: ""},
-            {id: v1(), type: "Lacetti", info: ""},
-            {id: v1(), type: "Lanos", info: ""},
-            {id: v1(), type: "Leganza", info: ""},
-            {id: v1(), type: "Magnus", info: ""},
-            {id: v1(), type: "Matiz", info: ""},
-            {id: v1(), type: "Nexia 1995-2008", info: ""},
-            {id: v1(), type: "Nubira 1997-1999", info: ""},
-            {id: v1(), type: "Nubira 1999-2003", info: ""},
-            {id: v1(), type: "Nubira 2003-2007", info: ""},
-            {id: v1(), type: "Rezzo", info: ""},
-            {id: v1(), type: "Tacuma", info: ""}]
-    },
+        models: [{id: v1(), type: "Espero", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Kalos", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Lacetti", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Lanos", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Leganza", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Magnus", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Matiz", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Nexia 1995-2008", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Nubira 1997-1999", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Nubira 1999-2003", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Nubira 2003-2007", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Rezzo", info: "Передний - спереди, задний - барабан"},
+            {id: v1(), type: "Tacuma", info: "Передний - спереди, задний - барабан"}]
+    }, //готов
     {
         id: v1(),
         name: "Daihatsu",
@@ -283,7 +283,7 @@ let state = [
             {id: v1(), type: "Terios", info: ""},
             {id: v1(), type: "Terios II", info: ""},
             {id: v1(), type: "YRV", info: ""}]
-    },
+    },                  //еще 10
     {
         id: v1(),
         name: "Dodge",
@@ -346,7 +346,7 @@ let state = [
             {id: v1(), type: "Tipo", info: ""},
             {id: v1(), type: "Ulysse 1994-2002", info: ""},
             {id: v1(), type: "Ulysse 2002-", info: ""}]
-    },
+    },                      //еще 34
     {
         id: v1(),
         name: "Ford",
@@ -428,7 +428,7 @@ let state = [
             {id: v1(), type: "Transit Connect 2002-2013", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Transit Custom 2014-", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Windstar", info: "Передний - спереди, задний - спереди"}]
-    },
+    },                      //еще 27
     {
         id: v1(),
         name: "GMC",
@@ -502,7 +502,7 @@ let state = [
             {id: v1(), type: "Shuttle", info: ""},
             {id: v1(), type: "Stream 2000-2006", info: ""},
             {id: v1(), type: "Stream 2006-20014", info: ""}]
-    },
+    },                          //еще 48
     {
         id: v1(),
         name: "Hummer",
@@ -562,7 +562,7 @@ let state = [
             {id: v1(), type: "Tucson 3 2015-2018", info: ""},
             {id: v1(), type: "Veloster 2011-", info: ""},
             {id: v1(), type: "XG", info: ""}]
-    },
+    },                      //еще 42
     {
         id: v1(),
         name: "Infiniti",
@@ -620,7 +620,7 @@ let state = [
             {id: v1(), type: "Renegade", info: ""},
             {id: v1(), type: "Wrangler 1996-2006", info: ""},
             {id: v1(), type: "Wrangler 2007 - 2018", info: ""}]
-    },
+    },                      //еще 15
     {
         id: v1(),
         name: "KIA",
@@ -866,7 +866,7 @@ let state = [
             {id: v1(), type: "Space Star", info: ""},
             {id: v1(), type: "Space Wagon 1991-1998", info: ""},
             {id: v1(), type: "Space Wagon 1999-2004", info: ""}]
-    },
+    },                 //еще 33
     {
         id: v1(),
         name: "Nissan",
@@ -933,7 +933,7 @@ let state = [
             {id: v1(), type: "X-Trail (T30) 2001-2006", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "X-Trail (T31) 2007-2015", info: ""},
             {id: v1(), type: "X-Trail (T32) 2013-", info: ""}]
-    },
+    },                     //еще 56
     {
         id: v1(),
         name: "Opel",
@@ -978,7 +978,7 @@ let state = [
             {id: v1(), type: "Zafira A 1999-2005", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Zafira B 2005-2012", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Zafira C 2011-", info: "Передний - спереди, задний - сзади"}]
-    },
+    },                      //еще 29
     {
         id: v1(),
         name: "Perodua",
@@ -1024,7 +1024,7 @@ let state = [
             {id: v1(), type: "Partner 2002-2008", info: ""},
             {id: v1(), type: "Partner 2008-2012", info: ""},
             {id: v1(), type: "Partner 2012-2015", info: ""}]
-    },
+    },                  //еще 23
     {
         id: v1(),
         name: "Plymouth",
@@ -1095,7 +1095,7 @@ let state = [
             {id: v1(), type: "Twingo 1993-2007", info: ""},
             {id: v1(), type: "Twingo 2007-", info: ""},
             {id: v1(), type: "Vel Satis", info: ""}]
-    },
+    },                  //еще 43
     {
         id: v1(),
         name: "Rover",
@@ -1329,7 +1329,7 @@ let state = [
             {id: v1(), type: "Yaris 2011-2014", info: ""},
             {id: v1(), type: "Yaris 2014-2017", info: "Передний - спереди, задний - сзади"},
             {id: v1(), type: "Yaris Verso", info: "Передний - спереди, задний - сзади/барабан"}]
-    },
+    },                  //еще 35
     {
         id: v1(),
         name: "Volkswagen",
@@ -1395,7 +1395,7 @@ let state = [
             {id: v1(), type: "Transporter 5 2009-2015", info: ""},
             {id: v1(), type: "UP", info: ""},
             {id: v1(), type: "Vento", info: ""}]
-    },
+    },              //еще 40
     {
         id: v1(),
         name: "Volvo",
