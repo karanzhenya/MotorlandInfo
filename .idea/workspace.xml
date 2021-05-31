@@ -24,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todolist2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todolistTS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -149,7 +149,12 @@
       <workItem from="1615061345734" duration="1143000" />
       <workItem from="1615144947761" duration="4411000" />
       <workItem from="1615239191311" duration="4372000" />
-      <workItem from="1615279601728" duration="1421000" />
+      <workItem from="1615279601728" duration="1709000" />
+      <workItem from="1615298535277" duration="916000" />
+      <workItem from="1615303283350" duration="10000" />
+      <workItem from="1616534290008" duration="389000" />
+      <workItem from="1620074031147" duration="2048000" />
+      <workItem from="1620131130895" duration="13000" />
     </task>
     <servers />
   </component>
