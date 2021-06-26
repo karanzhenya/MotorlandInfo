@@ -187,16 +187,16 @@ let state = [
             {id: v1(), type: "Neon 1994-1999", info: ""},
             {id: v1(), type: "Neon 1999-2004", info: ""},
             {id: v1(), type: "Pacifica 2003-2008", info: "Передний - спереди, задний - спереди"},
-            {id: v1(), type: "PT Cruiser", info: ""},
-            {id: v1(), type: "Sebring 2001-2006", info: ""},
-            {id: v1(), type: "Sebring 2007-", info: ""},
-            {id: v1(), type: "Town-Country 1996-2001", info: ""},
-            {id: v1(), type: "Town-Country 2001-2008", info: ""},
-            {id: v1(), type: "Town-Country 2008-", info: ""},
-            {id: v1(), type: "Voyager 1984-1995", info: ""},
+            {id: v1(), type: "PT Cruiser", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Sebring 2001-2006", info: "Передний - спереди, задний - сзади/барабан(купе задний - спереди"},
+            {id: v1(), type: "Sebring 2007-", info: "Передний - спереди, задний - сзади/барабан"},
+            {id: v1(), type: "Town-Country 1996-2001", info: "Передний - спереди, задний - лево-право"},
+            {id: v1(), type: "Town-Country 2001-2008", info: "Передний - спереди, задний - лево-право"},
+            {id: v1(), type: "Town-Country 2008-", info: "Передний - спереди, задний - сзади"},
+            {id: v1(), type: "Voyager 1984-1995", info: "Передний - спереди, задний - лево-право/барабан"},
             {id: v1(), type: "Voyager 1996-2000", info: "Передний - спереди, задний - лево-право/барабан"},
-            {id: v1(), type: "Voyager 2001-2007", info: "Передний - спереди, задний - "},
-            {id: v1(), type: "Voyager 2007-2010", info: ""}]
+            {id: v1(), type: "Voyager 2001-2007", info: "Передний - спереди, задний - лево-право"},
+            {id: v1(), type: "Voyager 2007-2010", info: "Передний - спереди, задний - сзади"}]
     },                //еще 17
     {
         id: v1(),
@@ -1204,7 +1204,7 @@ let state = [
     {
         id: v1(),
         name: "Subaru",
-        models: [{id: v1(), type: "Forester (S10) 1998-2002", info: "Передний - сзади, задний - барабан"},
+        models: [{id: v1(), type: "Forester (S10) 1998-2002", info: "Передний - сзади, задний - сзади/барабан"},
             {id: v1(), type: "Forester (S11) 2002-2007", info: "Передний - сзади, задний - сзади"},
             {id: v1(), type: "Forester (S12) 2008-2012", info: "Передний - сзади, задний - сзади"},
             {id: v1(), type: "Forester 2013-", info: "Передний - сзади, задний - сзади"},
